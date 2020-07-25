@@ -2,12 +2,13 @@ A software which gives dhun based on input. Initial instrument will be harmonium
 input can be any (s,r,g,m,p,d,n) with all saptak with below selection.
 1. 8 bit
 2. 16 bit
-3  7 bit
+3. 7 bit
 
 All Notes"(12)
 "Sa","re","Re","ga","Ga","ma","Ma","Pa","dha","Dha","ni","Ni"
 
 small - komal
+
 Big -Sudh
 
 S r R g G m M P d D n N
