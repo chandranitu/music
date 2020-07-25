@@ -1,0 +1,43 @@
+
+
+##. write a python code for permutation combination of character and save generated chars in different file.
+
+Ex- have a character array
+     arr=['a','b','c']
+
+  total per & comm of arr-  abc,acb,bac,bca,cab,cba (6 ways)
+   
+under test folder - abc.txt (content under file is a b c)
+                    acb.txt (content under file is a c b) etc
+
+##. write a python code for permutation combination of sound file  and save generated sounds in different file.
+     
+         Ex- a- bird.wav file
+             b- dog.wav file
+             c- cow.wav file
+
+ total per & comm of arr-  abc,acb,bac,bca,cab,cba (6 ways)
+   
+under test folder - abc.wav (content under file is sound of a b c in sequence)
+                    acb.wav (content under file is sound of a c b in sequence) etc
+
+
+# Rules for running permutation and combination
+
+# wave file mapping with generated text
+
+# mood based selection
+
+# Daytime based selection
+
+# Algorithm writing
+
+
+##  Make a gui where all 12 beats are present and user can select beats out of 12. There must be readymade raag beats for user convenient 
+
+yaman- 
+
+
+
+   
+
