@@ -7,9 +7,10 @@ input can be any (s,r,g,m,p,d,n) with all saptak with below selection.
 All Notes"(12)
 "Sa","re","Re","ga","Ga","ma","Ma","Pa","dha","Dha","ni","Ni"
 
-small - komal
+Notation----
+small letter - komal
 
-Big -Sudh
+Big letter -Sudh
 
 S r R g G m M P d D n N
 

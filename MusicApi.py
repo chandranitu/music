@@ -39,3 +39,9 @@ def char_to_string(s):
 
         # return string
     return new
+
+
+# program to Split string into characters
+# Example   'chandra'   --> ['c', 'h', 'a', 'n', 'd', 'r', 'a']
+def split(word):
+    return [char for char in word]
