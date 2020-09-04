@@ -16,13 +16,12 @@ pdir = "/home/hadoop/"
 cdir = "musicTest"
 pathtest = create_folder(pdir, cdir)
 
-path123= "/home/hadoop/musicTest"
-lst= []  # This list will contain all P&C text and make file
+path123 = "/home/hadoop/musicTest"
+lst = []  # This list will contain all P&C text and make file
 for i in list(perm):
     str1 = char_to_string(i)
     lst.append(str1)
     create_file(lst, path123)
-
 
 if __name__ == "__main__":
     print("")
