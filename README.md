@@ -9,7 +9,6 @@ All Notes"(12)
 
 Notation----
 small letter - komal
-
 Big letter -Sudh
 
 S r R g G m M P d D n N
